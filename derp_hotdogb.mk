@@ -22,6 +22,9 @@ TARGET_FACE_UNLOCK_SUPPORTED := true
 # Official-ify
 DERP_BUILDTYPE := Official
 
+#FOD Animations
+EXTRA_FOD_ANIMATIONS := true
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := derp_hotdogb
 PRODUCT_DEVICE := hotdogb
